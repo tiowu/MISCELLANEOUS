@@ -1,2 +1,2 @@
-# College-CS-Codes
-Codes I like
+# A mix of random scripts
+spur of the moment codes
